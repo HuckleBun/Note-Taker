@@ -4,6 +4,15 @@
 This application is under the cover of the MIT license.
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
+- [Live-Application](#live-application)
+- [Connect](#connect)
+
 ## Description
 These is an app that allows the user to create, edit, and delete notes, and uses an `Express.js` back end and will save and retrieve note data from a JSON file.
 
@@ -14,14 +23,6 @@ These is an app that allows the user to create, edit, and delete notes, and uses
 
 ![note-taker-initial](https://user-images.githubusercontent.com/62036600/139337890-8027aa27-ef60-4b33-8878-9b85434eeab7.JPG)
 ![note-taker-main](https://user-images.githubusercontent.com/62036600/139337963-88860f11-72ba-4440-af38-dac881f94316.JPG)
-
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-- [Connect](#connect)
 
 ## Installation
 
@@ -54,9 +55,13 @@ If you see the Note-Taker load up, you are all set!
 ## Usage
 With a simple, easy to use UI, this app lets you easily create a list of notes for yourself.
 
+## Live-Application
+https://dashboard.heroku.com/apps/hucklebun-note-taker
+
 ## Contribution
 Micah Duehring (hucklebun)
 
-## Have questions? Connect with me.
+## Connect
 GitHub: [hucklebun](https://github.com/hucklebun/)
+<br/>
 Email: micah@theduehrings.com
