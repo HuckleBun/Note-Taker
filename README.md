@@ -12,6 +12,9 @@ These is an app that allows the user to create, edit, and delete notes, and uses
 - Clicking on an existing note will open up that note's contents on the right (you can edit the note from here).
 - Clicking on the **PLUS** icon at the top right of your home page, an empty note will appear to the right for you to edit and create.
 
+![note-taker-initial](https://user-images.githubusercontent.com/62036600/139337890-8027aa27-ef60-4b33-8878-9b85434eeab7.JPG)
+![note-taker-main](https://user-images.githubusercontent.com/62036600/139337963-88860f11-72ba-4440-af38-dac881f94316.JPG)
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
