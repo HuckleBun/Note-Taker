@@ -29,7 +29,7 @@ These is an app that allows the user to create, edit, and delete notes, and uses
 - Use the follow command at your terminal, **git clone** (Create a working copy at your local repository):
 
 ```
-git clone git@github.com:Derimarg/note-taker.git
+git clone git@github.com:hucklebun/note-taker.git
 ```
 
 Once cloned, move into the directory of this project and enter into your terminal:
